@@ -21,7 +21,7 @@ const cmd = require("node-cmd");
 const prefix = "-";
 const cooldown = new Set();
 const cdtime = 7;
-client.login("ODIzOTQxNjIxMDU3ODQ3MzI5.YFoJbg.l7uLyAMB37PzFL6ydEXaEgVDCis");
+client.login("NzY0NDg3NDE2NzQ4MzEwNTcw.X4G-Yw.1QS6sGdigNEc8q8Iy1WbY9W45Mc");
 
 const color = "#303135";
 
