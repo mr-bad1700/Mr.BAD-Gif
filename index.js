@@ -54,13 +54,12 @@ __This is a little prefix__
 `;
     var addserver = `https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=5271285182&scope=bot`;
     var SUPPORT = `https://discord.gg/26pM9JYU56`;
-    var website = `https://mrfox.ga/`;
     var EMBED = new Discord.MessageEmbed()
       .setColor(color)
       .setAuthor(client.user.username, client.user.avatarURL())
       .setDescription(
         `${Dashboard}
-  __**[Invite Me](${addserver})**__ - __**[Discord Server](${SUPPORT})**__  - __**[Webstie](${website})**__`
+  __**[Invite Me](${addserver})**__ - __**[Discord Server](${SUPPORT})**__`
       )
       .setImage("");
     message.channel.send(EMBED);
@@ -88,7 +87,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Animal Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -117,7 +116,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Anime Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -147,7 +146,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Baby Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -176,7 +175,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Boy Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -205,7 +204,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Couple Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -249,7 +248,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Emoji Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -278,7 +277,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Girl Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -307,7 +306,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Neon Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -336,7 +335,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Sad Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
@@ -365,7 +364,7 @@ let result = Math.floor((Math.random() * replies.length));
     var gif = new Discord.MessageEmbed()
          
          .setTitle("> __Smoking Gif__")
-         .setURL(`https://mrfox.ga/`)
+         .setURL(`https://discord.gg/26pM9JYU56`)
          .setDescription(`> tag: <@${user.id}>`)
          .setColor(color)
          .setFooter(`Request by: ${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
