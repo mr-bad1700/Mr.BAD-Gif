@@ -18,7 +18,7 @@ const dateFormat = require("dateformat");
 var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
-const prefix = "m.";
+const prefix = "-";
 const cooldown = new Set();
 const cdtime = 7;
 client.login("ODIzOTQxNjIxMDU3ODQ3MzI5.YFoJbg.l7uLyAMB37PzFL6ydEXaEgVDCis");
