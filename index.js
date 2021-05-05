@@ -52,7 +52,7 @@ __Gifs Commands__
 __This is a little prefix__
 > [ ${prefix} ]
 `;
-    var addserver = `https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=5271285182&scope=bot`;
+    var addserver = `https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=2147834880&scope=bot`;
     var SUPPORT = `https://discord.gg/26pM9JYU56`;
     var EMBED = new Discord.MessageEmbed()
       .setColor(color)
