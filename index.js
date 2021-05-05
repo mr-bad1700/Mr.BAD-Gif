@@ -28,7 +28,7 @@ const color = "#303135";
 client.on("ready", () => {
 setInterval(() => {
   client.user.setActivity(
-  `${prefix}help`,
+  `${prefix}help - ${client.guilds.cache.size} server`,
   );
 }, 2000);
 })
