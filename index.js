@@ -21,14 +21,14 @@ const cmd = require("node-cmd");
 const prefix = "m.";
 const cooldown = new Set();
 const cdtime = 7;
-client.login("");
+client.login("ODIzOTQxNjIxMDU3ODQ3MzI5.YFoJbg.l7uLyAMB37PzFL6ydEXaEgVDCis");
 
 const color = "#303135";
 
 client.on("ready", () => {
 setInterval(() => {
   client.user.setActivity(
-  `${prefix}help - https://mrfox.ga/`,
+  `${prefix}help`,
   );
 }, 2000);
 })
