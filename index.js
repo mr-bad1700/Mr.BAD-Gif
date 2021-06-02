@@ -420,12 +420,12 @@ client.on('message', message => {
      .setThumbnail(message.author.displayAvatarURL())
      .setDescription(`
      tag: <@${message.author.id}>
-     > __[MrFox Bot](https://discord.com/api/oauth2/authorize?client_id=764487416748310570&permissions=2147612864&scope=bot)__ <:BotCheck:844703166582882324>
+     > __[MrFox Bot](https://discord.com/api/oauth2/authorize?client_id=764487416748310570&permissions=2147612864&scope=bot)__ <:BotCheck:849551953537400893>
      
      > __Email:__ 📧
      > __[Click here to report](mailto:Mr.FoxDevelopment@gmail.com)__
      `)
-   message.react('<:DTB:844689884391407617>')
+   message.react('<:tickYes:849552012278235138>')
   message.author.send(embed);
     }
 }); 
