@@ -423,7 +423,7 @@ client.on('message', message => {
      > __[MrFox Bot](https://discord.com/api/oauth2/authorize?client_id=764487416748310570&permissions=2147612864&scope=bot)__ <:BotCheck:849551953537400893>
      
      > __Email:__ 📧
-     > __[Click here to report](mailto:Mr.FoxDevelopment@gmail.com)__
+     > __Mr.FoxDevelopment@gmail.com__
      `)
    message.react('<:tickYes:849552012278235138>')
   message.author.send(embed);
